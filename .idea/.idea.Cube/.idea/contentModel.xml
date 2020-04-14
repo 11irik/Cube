@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Kirill\.Rider2019.3\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\Kirill\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Kirill\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Cube.-899390918.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Kirill\RiderProjects\Cube" t="IncludeFlat">
+      <e p="Cube" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Cube.csproj" t="IncludeRecursive" />
+        <e p="Entities" t="Include">
+          <e p="Cube.cs" t="Include" />
+          <e p="Point.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Cube.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="Cube.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
